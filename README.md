@@ -4,8 +4,9 @@ YTDownloadWizard - a tool to enable users to download YouTube videos straight fr
 I. About this project:
 ----------------------
 [1]This project never aims to receive profit and monetise its usage.
-[2]I do not discourage you from sharing the open source code versions of this project, but closed sorce non-beta builds are off limits.
-[3]I welcome your attempts at improving this project - as little as suggesting a potential feature is a viable contribution!
+[2]This project is a gUI integration of the youtube-dl package.
+[3]I do not discourage you from sharing the open source code versions of this project, but closed sorce non-beta builds are off limits.
+[4]I welcome your attempts at improving this project - as little as suggesting a potential feature is a viable contribution!
 ----------------------------------------------------------------------------------------------------------------------------
 II. Disclaimers
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -15,5 +16,7 @@ II. Disclaimers
 [2.2] The user takes full responsibility for his actions by using this software.
 [3] I am not in any way affiliated with YouTube or Google.
 --------------------------------------------------------------------------------------------------------------------------
+The software uses youtube-dl - a PyPI external Python package. It is property of its original owner
+---------------------------------------------------------------------------------------------------
 @progrummi on GitHub |GNU v3.0|
 -------------------------------
