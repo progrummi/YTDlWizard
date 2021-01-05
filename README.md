@@ -5,8 +5,7 @@ I. About this project:
 ----------------------
 [1]This project never aims to receive profit and monetise its usage.
 [2]This project is a gUI integration of the youtube-dl package.
-[3]I do not discourage you from sharing the open source code versions of this project, but closed sorce non-beta builds are off limits.
-[4]I welcome your attempts at improving this project - as little as suggesting a potential feature is a viable contribution!
+[3]I welcome your attempts at improving this project - as little as suggesting a potential feature is a viable contribution!
 ----------------------------------------------------------------------------------------------------------------------------
 II. Disclaimers
 -----------------------------------------------------------------------------------------------------------------------------------------------
